@@ -36,7 +36,7 @@ Describe the process of using the solution. In what kind situations is the solut
 - School administrators.
 - Students and their guardians.
 
-![Sample Dashboard](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Sample Dashboard]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://www.pexels.com/photo/woman-writing-on-a-notebook-beside-teacup-and-tablet-computer-733856/))
 
 ## Data sources and AI methods
 
