@@ -37,6 +37,8 @@ Describe the process of using the solution. In what kind situations is the solut
 - Students and their guardians.
 - 
 
+## Code of Conduct
+This project follows the [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming environment for all contributors.
 
 
 
